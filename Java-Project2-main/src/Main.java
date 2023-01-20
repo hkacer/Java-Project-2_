@@ -6,7 +6,7 @@ public class Main {
     public static void main(String[] args) {
 
 
-        // Create a new ArrayList which contains Cupcake and call it cupcakeMenu
+        // Create a new ArrayList which contains Cupcake and call it cupcakeMenu.
         ArrayList<Cupcake> cupcakeMenu= new ArrayList<Cupcake>();
 
         // Create a new Cupcake object named cupcake
